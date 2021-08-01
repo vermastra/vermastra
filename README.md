@@ -1,7 +1,6 @@
 ### Hi there, Aditya Verma is here 👋
 
 
-**vermastra/vermastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
  I’m currently pursuing my Undergraduate in **_Computer Science and Engineering_** from [Natioanl Institute of Technology Silchar.](http://www.nits.ac.in/) 
