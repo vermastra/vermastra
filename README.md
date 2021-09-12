@@ -11,6 +11,6 @@
 
 
 <div align="center" width=100%>
-  <code><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermastra&theme=cobalt&layout=compact"></code>
+<!--   <code><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermastra&theme=cobalt&layout=compact"></code> -->
   <code><img height="150" src="https://github-readme-stats.vercel.app/api?username=vermastra&count_private=t&hide=stars&theme=cobalt"></code>
 </div>
