@@ -6,7 +6,6 @@
  I’m currently pursuing my Undergraduate in **_Computer Science and Engineering_** from [Natioanl Institute of Technology Silchar.](http://www.nits.ac.in/) 
 - 🔭 I’m currently working on backend projects.
 - 🌱 I’m interested in competitive coding and web dev 💻 👨‍💻
-- hiiiiiii how was it??😂
 
 
 
