@@ -1,21 +1,21 @@
-## Hi there, Aditya Verma is here 👋
+## Hey, Welcome This is Aditya Verma aka Vermastra 🎓 👋
+</p> 
+<div class="hello">
+  <div class="inner" ><img src="assets/animation_500_kckasloz.gif" align="right" height="500" width="500" padding-top:"20"></div>
+</div>
+</p>
 
  I’m currently pursuing my Undergraduate in **_Computer Science and Engineering_** from [Natioanl Institute of Technology Silchar.](http://www.nits.ac.in/) 
 - 🔭 I’m currently working on backend projects.
 - 🌱 I’m interested in competitive coding and web dev 💻 👨‍💻
 - 🐱‍👤 I’m proficient in C++ and JavaScript 🤠
 
-
-<div class="hello">
-  <div class="inner" ><img src="assets/animation_500_kckasloz.gif" align="right" height="500" width="500" padding-top:"20"></div>
-</div>
-
 <p>
-
 <div class="hello">
-  <div class="inner" ><img src="assets/animation_300_kckabl3r.gif" height="200" width="200"></div>
+  <div class="inner" ><img src="assets/animation_300_kckabl3r.gif" height="150" width="200"></div>
 </div>
 </p>
+
 
 ### Connect with me:
 
