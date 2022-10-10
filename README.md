@@ -5,13 +5,17 @@
 - 🌱 I’m interested in competitive coding and web dev 💻 👨‍💻
 - 🐱‍👤 I’m proficient in C++ and JavaScript 🤠
 
+<p>
+<div class="hello">
+  <div class="inner" ><img src="assets/animation_300_kckabl3r.gif" height="200" width="200"></div>
+</div>
+</p>
 
 <div class="hello">
   <div class="inner" ><img src="assets/animation_500_kckasloz.gif" align="right" height="500" width="500" padding-top:"20"></div>
 </div>
 
 <p>
-
 <div class="hello">
   <div class="inner" ><img src="assets/animation_300_kckabl3r.gif" height="200" width="200"></div>
 </div>
