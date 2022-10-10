@@ -1,4 +1,4 @@
-## Hi there, Aditya Verma is here 👋
+## Hey, Welcome This is Aditya Verma aka Vermastra 🎓 👋
 </p> 
 <div class="hello">
   <div class="inner" ><img src="assets/animation_500_kckasloz.gif" align="right" height="500" width="500" padding-top:"20"></div>
